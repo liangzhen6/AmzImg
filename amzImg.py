@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 from amazon import amazon
 import time
 imgs = []
